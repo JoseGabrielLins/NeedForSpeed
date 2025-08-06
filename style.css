@@ -1,16 +1,54 @@
 /*  Pagina Jogo */
 
+body{
+    font-family: Arial;
+    background-image: url("https://portal.crea-sc.org.br/wp-content/uploads/2018/12/fundo-azul-claro.jpg");
+}
+
+
 h1{
     text-align: center;
 }
 
-h3{
-
+.alinhamentoprimeiraimageprincipal {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       
 }
 
 #imagem1paginaprincipal{
-    width: 700px;
-    align-items: center;
+    width: 500px;
+}
+
+#imagem2paginaprincipal{
+    width: 500px;
+}
+
+#imagem3paginaprincipal{
+    width: 500px;
+}
+
+#titulo1paginaprincipal{    
+    text-align: center;
+    border: 5px solid black;
+    
+}
+
+#titulo2paginaprincipal{    
+    text-align: center;
+    border: 5px solid black;
+    
+}
+
+#titulo3paginaprincipal{    
+    text-align: center;
+    border: 5px solid black;
+    
+}
+
+.textoprimeirojogo{
+    text-align: center;
 }
 
 /*  Pagina Filme */
