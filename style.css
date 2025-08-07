@@ -43,7 +43,7 @@ h1{
 
 #titulo3paginaprincipal{    
     text-align: center;
-    border: 5px solid black;
+    border: 20px solid black;
     
 }
 
@@ -52,6 +52,26 @@ h1{
 }
 
 /*  Pagina Filme */
+section:{
+	display:flex;
+}
+
+	
+.filme:{
+		background-color:lightgray;
+		padding:20px;
+		margin:20px;
+		flex-grow: 1;
+		flex-basis: 33%;
+		border:1px 
+}
+#titulopaginafilme:{
+		text-align:center;
+		border: 5px solid black;
+}
+
+		
+
 
 
 
