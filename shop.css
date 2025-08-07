@@ -1,0 +1,52 @@
+shop.align-self-center {
+  -webkit-align-self:center;
+  -ms-flex-item-align: center;
+  align-self: center;
+
+}
+.clearfloat {
+  clear: both;
+}
+
+#shop1 {
+  float: center;
+  width: 500px;
+}
+#shop2 {
+  float: center;
+  width: 500px;
+}
+#shop3 {
+  float: center;
+  width: 500px;
+}
+#shop4 {
+  float: center;
+  width: 500px;
+}
+#shop5 {
+  float: center;
+  width: 500px;
+}
+
+.flex-container.row {
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+flex-container.nowrap {
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+hr {
+  margin: 40px 0;
+}
+.padding-box {
+  width: 300px;
+  background-color: #e9e9ff;
+  padding: 30px;
+  border: 10px solid #ccc;
+  margin: 10px;
+  box-sizing: padding-box;
+}
