@@ -71,14 +71,22 @@ section:{
 
 #paginafilme1{
     width: 500px;
+    align-items: center;
+    justify-content: center;
+       
 }
 
 #paginafilme2{
     width: 500px;
-}
+    align-items: center;
+    justify-content: center;
+       
 
 #paginafilme3{
     width: 500px;
+    align-items: center;
+    justify-content: center;
+       
 }
 		
 
