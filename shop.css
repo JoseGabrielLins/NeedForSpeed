@@ -50,3 +50,7 @@ hr {
   margin: 10px;
   box-sizing: padding-box;
 }
+
+#preco{
+  display: flex;
+}
