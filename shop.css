@@ -10,47 +10,21 @@ shop.align-self-center {
 
 #shop1 {
   float: center;
-  width: 500px;
+  width: 200px;
 }
 #shop2 {
   float: center;
-  width: 500px;
+  width: 200px;
 }
 #shop3 {
   float: center;
-  width: 500px;
+  width: 200px;
 }
 #shop4 {
   float: center;
-  width: 500px;
+  width: 200px;
 }
 #shop5 {
   float: center;
-  width: 500px;
-}
-
-.flex-container.row {
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-}
-flex-container.nowrap {
-  -webkit-flex-wrap: nowrap;
-  -ms-flex-wrap: nowrap;
-  flex-wrap: nowrap;
-}
-hr {
-  margin: 40px 0;
-}
-.padding-box {
-  width: 300px;
-  background-color: #e9e9ff;
-  padding: 30px;
-  border: 10px solid #ccc;
-  margin: 10px;
-  box-sizing: padding-box;
-}
-
-#preco{
-  display: flex;
+  width: 200px;
 }
