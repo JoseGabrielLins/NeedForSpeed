@@ -2,11 +2,12 @@
 section{
 	display:block;
 }
+
 	
 .filme{
-		background-color:lightgray;
-		padding:20px;
-		margin:20px;
+		background-color:lightblue;
+		padding:40px;
+		margin:40px;
 		flex-grow: 1;
 		flex-basis: 33%;
 		border:1px 
@@ -15,3 +16,9 @@ section{
 		text-align:center;
 		border: 5px solid black;
 }
+body{
+	text-align:center;
+	font-family: impact;
+    background-image: url("https://portal.crea-sc.org.br/wp-content/uploads/2018/12/fundo-azul-claro.jpg");
+}
+	
